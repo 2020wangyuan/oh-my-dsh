@@ -1,0 +1,36 @@
+{
+  "name": "oh-my-dsh",
+  "version": "0.1.0",
+  "description": "OmO-style discipline & tooling plugins for DeepSeek Harness",
+  "type": "commonjs",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "oh-my-dsh",
+    "deepseek-harness",
+    "cordis",
+    "plugin",
+    "oh-my-openagent",
+    "hashline",
+    "agent-tools"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check:comments": "node scripts/comment-check.mjs src examples scripts"
+  },
+  "files": [
+    "src",
+    "docs",
+    "examples",
+    "scripts",
+    "LICENSE",
+    "README.md"
+  ]
+}
