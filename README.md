@@ -2,6 +2,8 @@
 
 > Bring oh-my-openagent's discipline and agent-organization ideas to DeepSeek Harness — as two transient **Dynamic Cordis Plugins** you load from the Web GUI.
 
+**English** | [简体中文](README.zh-CN.md)
+
 <!-- Badge placeholders — replace with real shields.io links at first release -->
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg) ![Version: 0.1.0](https://img.shields.io/badge/version-0.1.0-orange.svg) ![Status: experimental](https://img.shields.io/badge/status-experimental-lightgrey.svg)
 
